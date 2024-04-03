@@ -1,7 +1,7 @@
 {
   "name": "suhail-md@1.2.8",
   "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
+  "logo": "https://i.ibb.co/93JPsKm/20240318-114102.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Riaz Ser",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "Mangrio4u"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "https://i.ibb.co/93JPsKm/20240318-114102.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Mangrio4u MD",
       "required": false 
     },
     "PACK_AUTHER": {
